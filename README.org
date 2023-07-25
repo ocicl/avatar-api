@@ -1,0 +1,10 @@
+* avatar-api
+
+Get avatars from Gravatar and other services.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/avatar-api.git   |
+| commit  | e978fd2  |
+| systems | avatar-api |
+|---------+-------------------------------------------|
+
